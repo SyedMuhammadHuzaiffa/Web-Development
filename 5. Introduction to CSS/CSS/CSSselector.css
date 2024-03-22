@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+
+}
+
+.p2 {
+    color: black;
+}
+
+#p3 {
+    color: green;
+}
+
+li[value="4"] {
+    color: blue;
+}
