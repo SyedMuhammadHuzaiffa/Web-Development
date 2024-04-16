@@ -1,0 +1,27 @@
+.top-div {
+    background-color: rgb(95, 158, 160);
+    width: 175px;
+    border: solid 10px black;
+    padding: 20px;
+    font-size: small;
+}
+
+.middle-div {
+    background-color: rgb(255, 215, 0);
+    width: 175px;
+    height: 180px;
+    border: solid black;
+    border-width: 20px 10px;
+    position: absolute;
+    left: 243px;
+}
+
+.bottom-div {
+    background-color: rgb(205, 92, 92);
+    width: 175px;
+    height: 180px;
+    border: solid 10px black;
+    position: absolute;
+    top: 451px;
+    left: 48px;
+}

@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(249, 233, 210);
+}
+
+#hello {
+    background-color: rgb(131, 180, 131);
+    color: white;
+
+}
+
+#world {
+    background-color: rgb(190, 125, 48);
+    color: white;
+}
