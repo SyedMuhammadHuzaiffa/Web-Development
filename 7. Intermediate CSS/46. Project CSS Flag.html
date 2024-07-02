@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Flag Project</title>
+
+    <style>
+        .flag {
+            height: 600px;
+            width: 900px;
+            background-color: rgb(207, 16, 38);
+        }
+
+        .flag p {
+            color: white;
+            font-size: 5rem;
+            text-align: center;
+        }
+
+        .flag div div {
+            background-color: rgb(3, 40, 104);
+            height: 270px;
+        }
+
+        .flag div div>p {
+            color: black;
+            background-color: white;
+            height: 200px;
+            width: 200px;
+            border-radius: 100%;
+            position: relative;
+            top: 35px;
+            left: 350px;
+            text-align: center;
+            max-width: 190px;
+        }
+    </style>
+</head>
+<!-- 
+  IMPORTANT! Do not change any HTML
+Don't add any classes/ids/elements 
+Use what you know about combining selectors 
+and CSS specificity instead.
+Hint 1: The flag is 900px by 600px and the circle is 200px by 200px.
+Hint 2: You can use CSS inspection to get the colors from
+https://appbrewery.github.io/flag-of-laos/
+-->
+
+<body>
+    <div class="flag">
+        <p>The Flag</p>
+        <div>
+            <div>
+                <p>of Laos</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
