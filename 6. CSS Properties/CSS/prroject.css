@@ -5,11 +5,14 @@ body {
 .main {
     width: 50%;
     margin-left: 25%;
+    margin-right: 25%;
     margin-top: 6%;
 }
 
 img {
     border: solid 5px white;
+    text-align: center;
+    margin-left: 50px;
 }
 
 h1 {
