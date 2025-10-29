@@ -1,0 +1,1 @@
+just some knowledge in the section related to color theory, UI/UX nothing major. No code or project in this file.
